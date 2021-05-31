@@ -1,0 +1,577 @@
+[
+  {
+    "id": 87,
+    "monster": {
+      "name": "黑色史莱姆",
+      "hp": 150,
+      "atk": 40,
+      "def": 40,
+      "coin": 15,
+      "exp": 10,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id": 88,
+    "monster": {
+      "name": "骷髅兵",
+      "hp": 100,
+      "atk": 25,
+      "def": 10,
+      "coin": 10,
+      "exp": 8,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id": 89,
+    "monster": {
+      "name": "大蝙蝠",
+      "hp": 200,
+      "atk": 50,
+      "def": 25,
+      "coin": 20,
+      "exp": 13,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id": 90,
+    "monster": {
+      "name": "半兽人",
+      "hp": 400,
+      "atk": 80,
+      "def": 60,
+      "coin": 20,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id": 91,
+    "monster": {
+      "name": "骷髅大队长",
+      "hp": 350,
+      "atk": 90,
+      "def": 40,
+      "coin": 30,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id": 92,
+    "monster": {
+      "name": "石头人",
+      "hp": 100,
+      "atk": 80,
+      "def": 100,
+      "coin": 40,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id": 93,
+    "monster": {
+      "name": "麻衣法师",
+      "hp": 100,
+      "atk": 180,
+      "def": 110,
+      "coin": 50,
+      "exp": 40,
+      "addDamage": 0.2
+    }
+  },
+  {
+    "id" :94,
+    "monster": {
+      "name": "下级卫士",
+      "hp": 200,
+      "atk": 90,
+      "def": 90,
+      "coin": 35,
+      "exp": 30,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 95,
+    "monster": {
+      "name": "红蝙蝠",
+      "hp": 300,
+      "atk": 150,
+      "def": 90,
+      "coin": 50,
+      "exp": 25,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 96,
+    "monster": {
+      "name": "红色魔法师",
+      "hp": 300,
+      "atk": 180,
+      "def": 120,
+      "coin": 30,
+      "exp": 20,
+      "addDamage": 0.8
+    }
+  }
+,
+  {
+    "id" : 97,
+    "monster": {
+      "name": "史莱姆大帝",
+      "hp": 500,
+      "atk": 200,
+      "def": 200,
+      "coin": 100,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 98,
+    "monster": {
+      "name": "蓝魔鬼",
+      "hp": 500,
+      "atk": 350,
+      "def": 150,
+      "coin": 20,
+      "exp": 20,
+      "addDamage": 5
+    }
+  }
+,
+  {
+    "id" : 99,
+    "monster": {
+      "name": "黄骑士",
+      "hp": 200,
+      "atk": 150,
+      "def": 150,
+      "coin": 30,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 100,
+    "monster": {
+      "name": "红衣法师",
+      "hp": 300,
+      "atk": 350,
+      "def": 350,
+      "coin": 50,
+      "exp": 50,
+      "addDamage": 3
+    }
+  }
+,
+  {
+    "id" : 101,
+    "monster": {
+      "name": "兽人骑士",
+      "hp": 200,
+      "atk": 130,
+      "def": 200,
+      "coin": 40,
+      "exp": 40,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 102,
+    "monster": {
+      "name": "中级卫士",
+      "hp": 400,
+      "atk": 250,
+      "def": 250,
+      "coin": 30,
+      "exp": 20,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 103,
+    "monster": {
+      "name": "无名剑客",
+      "hp": 3000,
+      "atk": 550,
+      "def": 150,
+      "coin": 40,
+      "exp": 42,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 104,
+    "monster": {
+      "name": "铁甲战士",
+      "hp": 500,
+      "atk": 300,
+      "def": 550,
+      "coin": 40,
+      "exp": 40,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 105,
+    "monster": {
+      "name": "红骑士",
+      "hp": 500,
+      "atk": 400,
+      "def": 400,
+      "coin": 50,
+      "exp": 50,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 106,
+    "monster": {
+      "name": "大法师",
+      "hp": 800,
+      "atk": 600,
+      "def": 600,
+      "coin": 80,
+      "exp": 80,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 107,
+    "monster": {
+      "name": "铁甲骷髅",
+      "hp": 500,
+      "atk": 400,
+      "def": 400,
+      "coin": 40,
+      "exp": 40,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 108,
+    "monster": {
+      "name": "死亡骑士",
+      "hp": 1000,
+      "atk": 700,
+      "def": 700,
+      "coin": 100,
+      "exp": 100,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 109,
+    "monster": {
+      "name": "影子杀手",
+      "hp": 1000,
+      "atk": 700,
+      "def": 300,
+      "coin": 30,
+      "exp": 2,
+      "addDamage": 3
+    }
+  }
+,
+  {
+    "id" : 110,
+    "monster": {
+      "name": "火焰魔王",
+      "hp": 1500,
+      "atk": 3000,
+      "def": 500,
+      "coin": 30,
+      "exp": 2,
+      "addDamage":10
+    }
+  }
+,
+  {
+    "id" : 111,
+    "monster": {
+      "name": "黄金魔王",
+      "hp": 39999,
+      "atk": 10000,
+      "def": 7000,
+      "coin": 0,
+      "exp": 0,
+      "addDamage": 2
+    }
+  }
+,
+  {
+    "id" : 112,
+    "monster": {
+      "name": "傀儡公主",
+      "hp": 2,
+      "atk": 65,
+      "def": 15,
+      "coin": 30,
+      "exp": 2,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 113,
+    "monster": {
+      "name": "黄金骷髅王",
+      "hp": 50000,
+      "atk": 8000,
+      "def": 8000,
+      "coin": 1000,
+      "exp": 1000,
+      "addDamage": 2
+    }
+  }
+,
+  {
+    "id" : 114,
+    "monster": {
+      "name": "幽灵魔王",
+      "hp": 8000,
+      "atk": 1000,
+      "def": 1000,
+      "coin": 30,
+      "exp": 2,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 115,
+    "monster": {
+      "name": "青龙王",
+      "hp": 3000,
+      "atk": 2500,
+      "def": 2500,
+      "coin": 200,
+      "exp": 200,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 116,
+    "monster": {
+      "name": "白虎王",
+      "hp": 3000,
+      "atk": 4000,
+      "def": 1000,
+      "coin": 200,
+      "exp": 200,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 117,
+    "monster": {
+      "name": "魔塔之主",
+      "hp": 2000,
+      "atk": 1600,
+      "def": 1600,
+      "coin": 100,
+      "exp": 100,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 118,
+    "monster": {
+      "name": "黄金无名剑客",
+      "hp": 2000,
+      "atk": 5500,
+      "def": 2500,
+      "coin": 150,
+      "exp": 200,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 119,
+    "monster": {
+      "name": "铂金骷髅",
+      "hp": 2500,
+      "atk": 2500,
+      "def": 4000,
+      "coin": 250,
+      "exp": 205,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 120,
+    "monster": {
+      "name": "毒丧尸",
+      "hp": 3000,
+      "atk": 3500,
+      "def": 3000,
+      "coin": 300,
+      "exp": 300,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 121,
+    "monster": {
+      "name": "黄金卫士",
+      "hp": 3000,
+      "atk": 4500,
+      "def": 3000,
+      "coin": 300,
+      "exp": 200,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 122,
+    "monster": {
+      "name": "远古封印龙王",
+      "hp": 999999,
+      "atk": 99999,
+      "def": 99999,
+      "coin": 2000,
+      "exp": 2000,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 123,
+    "monster": {
+      "name": "远古封印龙王",
+      "hp": 999999,
+      "atk": 99999,
+      "def": 99999,
+      "coin": 2000,
+      "exp": 2000,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 124,
+    "monster": {
+      "name": "远古封印龙王",
+      "hp": 999999,
+      "atk": 99999,
+      "def": 99999,
+      "coin": 2000,
+      "exp": 2000,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 125,
+    "monster": {
+      "name": "绿色史莱姆",
+      "hp": 50,
+      "atk": 10,
+      "def": 5,
+      "coin": 5,
+      "exp": 2,
+      "addDamage": 0.2
+    }
+  }
+,{
+  "id" : 126,
+  "monster": {
+    "name": "红色史莱姆",
+    "hp": 100,
+    "atk": 10,
+    "def": 5,
+    "coin": 8,
+    "exp": 3,
+    "addDamage": 0.2
+  }
+}
+,{
+  "id" : 127,
+  "monster": {
+    "name": "小蝙蝠",
+    "hp": 150,
+    "atk": 10,
+    "def": 5,
+    "coin": 10,
+    "exp": 4,
+    "addDamage": 0.2
+  }
+}
+, {
+    "id" : 128,
+    "monster": {
+      "name": "小骷髅",
+      "hp": 150,
+      "atk": 25,
+      "def": 10,
+      "coin": 12,
+      "exp": 12,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 129,
+    "monster": {
+      "name": "紫色魔法师",
+      "hp": 200,
+      "atk": 30,
+      "def": 25,
+      "coin": 15,
+      "exp": 12,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 130,
+    "monster": {
+      "name": "毒蝙蝠",
+      "hp": 8000,
+      "atk": 7000,
+      "def": 7000,
+      "coin": 600,
+      "exp": 600,
+      "addDamage": 0.2
+    }
+  }
+,
+  {
+    "id" : 131,
+    "monster": {
+      "name": "黄金大帝·魔塔之主",
+      "hp": 99999,
+      "atk": 12999,
+      "def": 12999,
+      "coin": 1000,
+      "exp": 1000,
+      "addDamage": 20
+    }
+  }
+]

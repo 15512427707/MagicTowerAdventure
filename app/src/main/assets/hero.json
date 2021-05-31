@@ -1,0 +1,20 @@
+{
+  "hp": 5000,
+  "atk": 25,
+  "def": 25,
+  "yellowKey": 1,
+  "blueKey": 1,
+  "redKey": 1,
+  "coin": 100,
+  "exp": 0,
+  "addDamage": 0.2,
+  "curLevel": 0,
+  "lv": 1,
+  "tools": [false,false,false,false,false,false,false,false,false,false],
+  "swords":[false,false,false,false,false],
+  "shields":[false,false,false,false,false],
+  "talk": [false,false,false,false,false,false,false,false,false,false,false,false,false],
+  "floor": [true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,
+    false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+  ]
+}

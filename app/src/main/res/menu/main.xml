@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save_game"
+        android:title="保存游戏" />
+    <item android:id="@+id/read_game"
+        android:title="读取游戏"/>
+    <item android:id="@+id/chongxin"
+        android:title="重新开始"/>
+    <item android:id="@+id/exit_game"
+        android:title="退出游戏"/>
+</menu>

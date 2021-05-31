@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#80065e8d">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/border_line_while">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </ImageView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:text="血量:"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+
+        <TextView
+            android:id="@+id/fighthp"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="1000"
+            android:textSize="20sp"
+            android:textColor="#FDD835"
+            android:gravity="left|center_vertical"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:text="攻击:"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical">
+        </TextView>
+
+        <TextView
+            android:id="@+id/fightatt"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:text="防御:"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+
+        <TextView
+            android:id="@+id/fightdef"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:text="增伤:"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+
+        <TextView
+            android:id="@+id/fightadd"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:text=""
+            android:textSize="15sp"
+            android:textColor="#F4511E"
+            android:gravity="left|center_vertical"/>
+    </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

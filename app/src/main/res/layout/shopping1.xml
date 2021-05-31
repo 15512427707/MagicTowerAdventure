@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#80065e8d"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/shopping1"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textSize="25sp"/>
+
+    <Button
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/addHp"
+        android:background="@drawable/main_menu_btnshape"
+        android:textColor="#FFFFFF"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:text="增加3000生命"
+        android:textSize="25sp"
+        />
+
+    <Button
+        android:id="@+id/addAtt"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="增加 22 攻击"
+        android:textSize="25sp"
+        android:background="@drawable/main_menu_btnshape"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/addDef"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="增加 22 防御"
+        android:textSize="25sp"
+        android:background="@drawable/main_menu_btnshape"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/addAdd"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="增加 0.6 增伤"
+        android:background="@drawable/main_menu_btnshape"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+</LinearLayout>

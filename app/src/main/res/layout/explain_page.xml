@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context="wang.com.M_tower.activity.MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/game_explain"
+        android:textColor="#FF9800"
+        android:textSize="45sp" />
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="     《魔塔》这个游戏是很久之前的国外的一款桌面棋类RPG游戏，本品是它一个的Android版。
+游戏的操作十分简单，用手指触摸上下左右四个按钮便可以行走，遇见怪物便会自动开始战斗。游戏中的怪物是很仁慈的，如果你的能力不足，他便不会和你战斗。可以通过NPC获得怪物手册，它可以帮助你了解怪物。
+游戏中还有商店，玩家可以在商店提升自己的能力。除此之外游戏中还有很多道具，奇遇等着你去发掘，勇士，快去冒险吧！"
+        android:textColor="#E91E63"
+        android:textSize="30sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/back_main"
+        android:layout_gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="返回"
+        android:background="@drawable/main_menu_btnshape"
+        android:textSize="28sp"/>
+
+</LinearLayout>

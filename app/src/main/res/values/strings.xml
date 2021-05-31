@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">application1</string>
+    <string name="n_n_n_n_n_52_n_n">这是一个很古老的故事。\n 很久很久以前，在遥远的西方大陆上，有着这样一个王国，王国虽小但全国的人们都生活的非常幸福和快乐。\n 突然有一天，从天空中飞来一群可怕的怪物，他们来到王宫，抢走了国王唯一的女儿。\n 第二天，国王便向全国下达了紧急令，只要谁能将公主给找回来，他便将王位让给他。\n 于是，全国的勇士们都出发了。他们的足迹遍布了全国各个角落。\n 终于，在国王下达命令的第52天，一个从远方归来的人告诉国王，说在海边的一座小岛上，曾看见过一群怪物出现过。\n 勇士们又出发了，可是，却没有一个人可以回来，有幸回来的，都再也不敢去了。\n 而我们的故事，便从这里开始......</string>
+    <string name="start">开始游戏</string>
+    <string name="adventure">魔塔奇遇</string>
+    <string name="shopping">石像:给我20个金币就可以得到以下任意一项。</string>
+    <string name="shopping1">石像:给我100个金币就可以得到以下任意一项。</string>
+    <string name="shopping2">石像:给我800个金币就可以得到以下任意一项。</string>
+    <string name="save">读取存档</string>
+    <string name="explain">说明</string>
+    <string name="exit">退出游戏</string>
+    <string name="game_explain">游戏说明</string>
+    <string name="game_explain_all">        《魔塔》这个游戏是很久之前的国外的一款桌面棋类RPG游戏，本品是它一个的Android版。 游戏的操作十分简单，用手指触摸上下左右四个按钮便可以行走，遇见怪物便会自动开始战斗。游戏中的怪物是很仁慈的，如果你的能力不足，他便不会和你战斗。可以通过NPC获得怪物手册，它可以帮助你了解怪物。 塔中还有商店，玩家可以在商店提升自己的能力。除此之外游戏中还有很多道具，奇遇等着你去发掘，勇士，快去冒险吧！</string>
+</resources>

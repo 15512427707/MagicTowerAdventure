@@ -1,0 +1,2 @@
+rootProject.name='魔塔WD版'
+include ':app'

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    android:weightSum="100"
+    tools:context="wang.com.M_tower.activity.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="35dp"
+        android:layout_weight="10"
+        android:text="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    在遥远的西方大陆上有这样一个王国，王国虽小但特别的富有，人们生活地很幸福。\n    突然有一天，从天空中飞来了一群可怕的怪物，他们来到王宫，抢走了国王唯一的女儿,并声称，要救你公主，就来幽灵岛的魔塔里。\n
+   第二天，国王便向全世界下达了紧急令，只要谁能将公主给找回来，他便拿出国家一半的财产给他。\n    于是，全世界的勇士都出发了，可是过了很久，却没有一个人可以回来，有幸回来的也都再也不敢去了。\n
+   而你——尼古拉斯·永强，一个战斗国家的小青年。你的国家很穷，又不幸被肺炎病毒肆虐，要花巨额金钱买来药品，为了拯救你的国家，于是你也来到了塔里。\n
+   而我们的故事，也从这里开始......"
+        android:textColor="#D81B60"
+        android:textSize="36sp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/start_game"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/btn_bottom_confirm_bg"
+        android:gravity="center"
+        android:layout_weight="95"
+        android:text="@string/start"
+        android:textSize="25sp"
+        android:textColor="#5E35B1" />
+
+</LinearLayout>

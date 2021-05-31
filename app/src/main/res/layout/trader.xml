@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/trade"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#80065e8d">
+
+    <TextView
+        android:id="@+id/talktext1"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:layout_width="wrap_content"
+        android:text=""
+        android:textColor="#FFEB3B"
+        android:gravity="left|center_vertical">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal">
+        <Button
+            android:id="@+id/buy"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:text="买买买"
+            android:background="@drawable/main_menu_btnshape">
+        </Button>
+
+        <Button
+            android:id="@+id/no"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="80dp"
+            android:text="不买"
+            android:background="@drawable/main_menu_btnshape">
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>
